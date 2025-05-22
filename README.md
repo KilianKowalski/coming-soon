@@ -4,7 +4,7 @@ Dies ist eine einfache **"Coming Soon"**-Seite in HTML. Sie zeigt eine schlichte
 
 ## 🌐 Vorschau
 
-**Live-Demo:** [kilianKowalski.github.io/coming-soon](https://kilianKowalski.github.io/coming-soon)
+**Live-Demo:** [➡️Click⬅️](https://kilianKowalski.github.io/coming-soon)
 
 ## 🛠️ Features
 
